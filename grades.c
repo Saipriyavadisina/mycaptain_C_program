@@ -1,8 +1,8 @@
 #include <stdio.h>
-
 int main()
 {
     int n;
+    printf("Enter marks: ");
     scanf("%d",&n);
     if(n >= 85 && n <= 100)
     {
